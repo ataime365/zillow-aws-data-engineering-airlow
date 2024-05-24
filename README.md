@@ -2,7 +2,7 @@
 ## Zillow End-to-End Data Engineering/ETL project on AWS.
 (S3, Python, Pandas, AWS Lambda Function, Redshift Serverless , Airflow, Ec2, QuickSight)
 
-The Aim of this project is to build an ETL pipeline which will Extract Zillow Real estate data using RapiAPI , Transform the data using Lambda function and make the data available in a Redshift data warehouse, to enable the data to be easily visaulized by end users or Data Analyst using QuickSight
+The Aim of this project is to build an ETL pipeline which will Extract Zillow Real estate data from RapiAPI , Transform the data using Lambda function and make the data available in a Redshift data warehouse, to enable the data to be easily visaulized by end users or Data Analyst using QuickSight or any BI tool
 
 ### Below is the Data Flow diagram
 <img src = 'images/flow_diagram.jpg' width='800px' />
